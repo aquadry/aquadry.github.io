@@ -3,8 +3,8 @@
 ================================================================== */
 
 :root {
-  --block-background: hsl(0, 0%, 94%);
-  --output-background: hsl(0, 0%, 98%);
+  --block-background: hsl(189, 75%, 85%);
+  --output-background: hsl(175, 73%, 78%);
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
